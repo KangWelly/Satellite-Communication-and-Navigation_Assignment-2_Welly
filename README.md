@@ -294,14 +294,22 @@ In temporal terms, GNSS seismology has good time continuity and real-time perfor
 
 ## 3. Reference Lists
 
-*Yoon, D., Kee, C., Seo, J., & Park, B. (2016). Position accuracy improvement by implementing the DGNSS-CP algorithm in smartphones. Sensors, 16(6), 910.
-*Bisnath, S., & Gao, Y. (2009). Precise point positioning. GPS world, 20(4), 43-50.
-*Teunissen, P. J. G., & Khodabandeh, A. (2015). Review and principles of PPP-RTK methods. Journal of Geodesy, 89(3), 217-240.
-*Takasu, T., & Yasuda, A. (2009, November). Development of the low-cost RTK-GPS receiver with an open source program package RTKLIB. In International symposium on GPS/GNSS (Vol. 1, pp. 1-6). Seogwipo-si, Republic of Korea: International Convention Center Jeju Korea.
-*Li, X., Ma, F., Li, X., Lv, H., Bian, L., Jiang, Z., & Zhang, X. (2019). LEO constellation-augmented multi-GNSS for rapid PPP convergence. Journal of Geodesy, 93, 749-764.
-*Ge, H., Li, B., Jia, S., Nie, L., Wu, T., Yang, Z., ... & Ge, M. (2022). LEO enhanced global navigation satellite system (LeGNSS): Progress, opportunities, and challenges. Geo-spatial Information Science, 25(1), 1-13.
-*Kassas, Z., Neinavaie, M., Khalife, J., Khairallah, N., Kozhaya, S., Haidar-Ahmad, J., & Shadram, Z. (2021). Enter LEO on the GNSS stage: Navigation with Starlink satellites.
-*Jin, S., Occhipinti, G., & Jin, R. (2015). GNSS ionospheric seismology: Recent observation evidences and characteristics. Earth-Science Reviews, 147, 54-64.
+*Yoon, D., Kee, C., Seo, J., & Park, B. (2016). Position accuracy improvement by implementing the DGNSS-CP algorithm in smartphones. Sensors, 16(6), 910.  
+
+*Bisnath, S., & Gao, Y. (2009). Precise point positioning. GPS world, 20(4), 43-50.  
+
+*Teunissen, P. J. G., & Khodabandeh, A. (2015). Review and principles of PPP-RTK methods. Journal of Geodesy, 89(3), 217-240.  
+
+*Takasu, T., & Yasuda, A. (2009, November). Development of the low-cost RTK-GPS receiver with an open source program package RTKLIB. In International symposium on GPS/GNSS (Vol. 1, pp. 1-6). Seogwipo-si, Republic of Korea: International Convention Center Jeju Korea.  
+
+*Li, X., Ma, F., Li, X., Lv, H., Bian, L., Jiang, Z., & Zhang, X. (2019). LEO constellation-augmented multi-GNSS for rapid PPP convergence. Journal of Geodesy, 93, 749-764.  
+
+*Ge, H., Li, B., Jia, S., Nie, L., Wu, T., Yang, Z., ... & Ge, M. (2022). LEO enhanced global navigation satellite system (LeGNSS): Progress, opportunities, and challenges. Geo-spatial Information Science, 25(1), 1-13.  
+
+*Kassas, Z., Neinavaie, M., Khalife, J., Khairallah, N., Kozhaya, S., Haidar-Ahmad, J., & Shadram, Z. (2021). Enter LEO on the GNSS stage: Navigation with Starlink satellites.  
+
+*Jin, S., Occhipinti, G., & Jin, R. (2015). GNSS ionospheric seismology: Recent observation evidences and characteristics. Earth-Science Reviews, 147, 54-64.  
+
 *Li, X., Guo, B., Lu, C., Ge, M., Wickert, J., & Schuh, H. (2014). Real-time GNSS seismology using a single receiver. Geophysical Journal International, 198(1), 72-89.
 
 ## 4 Acknowledgement

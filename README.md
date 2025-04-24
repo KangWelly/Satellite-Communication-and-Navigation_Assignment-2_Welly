@@ -208,7 +208,7 @@ The navigation solution was computed using the processed observation (obsData), 
 
 While implementing the skymask filtering, I encountered a technical issue that prevented the navigation solution from producing results. Specifically, the integration of the skymask data from skymask_A1_urban.csv into the navigation system failed due to inconsistencies in the skymask data.
 
-##### **Details of the Issue**
+#### **Details of the Issue**
 The skymask smoothing process produced invalid elevation values for certain azimuth angles.
 
 These issues caused the skymask filtering mechanism to malfunction, preventing valid satellite selection during the navigation process.
